@@ -1,6 +1,6 @@
 # Startup Challenge (2020)
 
-Source: Startup [Project Challenge](https://www.stemloyola.org/programming/startup-project-challenge)
+Source: [Startup Project Challenge](https://www.stemloyola.org/programming/startup-project-challenge)
 
 The objective of this project challenge is to expose students to the realities of real-world work in technology.
 
