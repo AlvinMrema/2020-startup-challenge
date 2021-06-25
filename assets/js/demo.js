@@ -1,7 +1,7 @@
 /**
  * This file contains the logic of the game for the startup challenge.
  * 
- * @author    [Alvin c Mrema] <sonalpha023@gmail.com>
+ * @author    [Your full name] <[your email]>
  * @author    STEM Loyola <stemloyola@gmail.com>
  * @version   1.0
  * 
